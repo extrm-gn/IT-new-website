@@ -89,6 +89,7 @@ html, body {
 .body1 {
     height: 120vh;
     margin-top: -30px;
+    background: rgba(77, 82, 157, 0.4);
 }
 .body2{
     height: 110vh;
